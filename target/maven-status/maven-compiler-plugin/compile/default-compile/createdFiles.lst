@@ -1,0 +1,5 @@
+cn\itlaobing\mapper\StudentMapper.class
+cn\itlaobing\web\controller\StudentController.class
+cn\itlaobing\service\StudentService.class
+cn\itlaobing\entity\Student.class
+cn\itlaobing\service\impl\StudentServiceImpl.class
